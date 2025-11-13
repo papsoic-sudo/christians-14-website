@@ -1,0 +1,9 @@
+h1{color: black;
+text-align: center;}
+h1{background-color: rgb(170, 255, 0);}
+h2{background-color: cyan;}
+h3{background-color: blueviolet;
+text-align: center}
+h4{background-color: dimgray;}
+*{background-color: darkcyan;}
+h2{text-align: center;}
